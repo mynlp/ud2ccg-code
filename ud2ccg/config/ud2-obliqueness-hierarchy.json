@@ -1,0 +1,278 @@
+[
+  {
+    "name": "dep",
+    "priority": 0
+  },
+  {
+    "name": "ref-dep",
+    "priority": 0
+  },
+  {
+    "name": "discourse",
+    "priority": 0
+  },
+  {
+    "name": "dislocated",
+    "priority": 0
+  },
+  {
+    "name": "orphan",
+    "priority": 0
+  },
+  {
+    "name": "ref-orphan",
+    "priority": 0
+  },
+  {
+    "name": "reparandum",
+    "priority": 0
+  },
+  {
+    "name": "vocative",
+    "priority": 0
+  },
+  {
+    "name": "compound",
+    "priority": 5
+  },
+  {
+    "name": "flat",
+    "priority": 5
+  },
+  {
+    "name": "fixed",
+    "priority": 5
+  },
+  {
+    "name": "ref-fixed",
+    "priority": 5
+  },
+  {
+    "name": "goeswith",
+    "priority": 5
+  },
+  {
+    "name": "amod",
+    "priority": 10
+  },
+  {
+    "name": "clf",
+    "priority": 10
+  },
+  {
+    "name": "list",
+    "priority": 10
+  },
+  {
+    "name": "nummod",
+    "priority": 10
+  },
+  {
+    "name": "ref-nummod",
+    "priority": 10
+  },
+  {
+    "name": "det",
+    "priority": 15
+  },
+  {
+    "name": "acl",
+    "priority": 16
+  },
+  {
+    "name": "ref-acl",
+    "priority": 16
+  },
+  {
+    "name": "acl:relcl",
+    "priority": 16
+  },
+  {
+    "name": "ref-acl:relcl",
+    "priority": 16
+  },
+  {
+    "name": "appos",
+    "priority": 16
+  },
+  {
+    "name": "conj",
+    "priority": 54
+  },
+  {
+    "name": "ref-conj",
+    "priority": 54
+  },
+  {
+    "name": "conj-sent",
+    "priority": 80
+  },
+  {
+    "name": "ref-conj-sent",
+    "priority": 80
+  },
+  {
+    "name": "cop",
+    "priority": 20
+  },
+  {
+    "name": "scop",
+    "priority": 30
+  },
+  {
+    "name": "iobj",
+    "priority": 20
+  },
+  {
+    "name": "obj",
+    "priority": 20
+  },
+  {
+    "name": "aux",
+    "priority": 30
+  },
+  {
+    "name": "xcomp",
+    "priority": 30
+  },
+  {
+    "name": "ref-xcomp",
+    "priority": 30
+  },
+  {
+    "name": "advcl",
+    "priority": 40
+  },
+  {
+    "name": "ref-advcl",
+    "priority": 40
+  },
+  {
+    "name": "advcl:relcl",
+    "priority": 40
+  },
+  {
+    "name": "advmod",
+    "priority": 40
+  },
+  {
+    "name": "ccomp",
+    "priority": 40
+  },
+  {
+    "name": "ref-ccomp",
+    "priority": 40
+  },
+  {
+    "name": "nmod",
+    "priority": 40
+  },
+  {
+    "name": "obl",
+    "priority": 50
+  },
+  {
+    "name": "obl-ap",
+    "priority": 50
+  },
+  {
+    "name": "mark",
+    "priority": 95
+  },
+  {
+    "name": "ref-mark",
+    "priority": 95
+  },
+  {
+    "name": "ref-scop",
+    "priority": 30
+  },
+  {
+    "name": "ref-nmod",
+    "priority": 40
+  },
+  {
+    "name": "ref-amod",
+    "priority": 40
+  },
+  {
+    "name": "ref-obl",
+    "priority": 50
+  },
+  {
+    "name": "ref-obl-ap",
+    "priority": 50
+  },
+  {
+    "name": "ref-det",
+    "priority": 15
+  },
+  {
+    "name": "ref-advmod",
+    "priority": 40
+  },
+  {
+    "name": "ref-nsubj",
+    "priority": 95
+  },
+  {
+    "name": "ref-obj",
+    "priority": 95
+  },
+  {
+    "name": "ref-iobj",
+    "priority": 95
+  },
+  {
+    "name": "parataxis",
+    "priority": 55
+  },
+  {
+    "name": "ref-parataxis",
+    "priority": 55
+  },
+  {
+    "name": "csubj",
+    "priority": 60
+  },
+  {
+    "name": "nsubj",
+    "priority": 60
+  },
+  {
+    "name": "expl",
+    "priority": 65
+  },
+  {
+    "name": "case",
+    "priority": 95
+  },
+  {
+    "name": "ref-case",
+    "priority": 95
+  },
+  {
+    "name": "cc",
+    "priority": 80
+  },
+  {
+    "name": "ref-cc",
+    "priority": 80
+  },
+  {
+    "name": "punct",
+    "priority": 90
+  },
+  {
+    "name": "punct2",
+    "priority": 90
+  },
+  {
+    "name": "root",
+    "priority": 100
+  },
+  {
+    "name": "ref-root",
+    "priority": 100
+  }
+]
